@@ -1,3 +1,10 @@
+
+// var app = {
+//   server : "https://api.parse.com/1/classes/chatterbox",
+// }
+
+
+
 var message = {
   'username': 'shawndrost',
   'text': 'trololo',
